@@ -95,5 +95,5 @@ The above commands will run the project. In order to smoothly execute the code a
 [http://www.ep.liu.se/ecp/129/002/ecp16129002.pdf](http://www.ep.liu.se/ecp/129/002/ecp16129002.pdf)
 
 ***
-##Contributor
+## Contributor <br>
 [Swathi Guptha](https://github.com/Swathi-Guptha/Track-it)
