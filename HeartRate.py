@@ -141,4 +141,4 @@ while True:
     
 
 cv2.destroyAllWindows()
-x.release(
+x.release()
