@@ -97,3 +97,4 @@ The above commands will run the project. In order to smoothly execute the code a
 ***
 ## Contributor <br>
 [Swathi Guptha](https://github.com/Swathi-Guptha/Track-it)
+[Pingali Raghavendra Suraj](https://github.com/suraj-pingali)
